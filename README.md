@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **emacabrera/emacabrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [DeptⓇ](https://www.deptagency.com/es-ar/)
+- 🌱 I’m currently learning `GO`, `React`
+- 👯 I’m looking to collaborate on the build of a **Slack bot** for my company.
+- 📫 How to reach me: pemanuel.cabrera@gmail.com
+- ⚡ Fun fact: I'm also a musician ✌🏼

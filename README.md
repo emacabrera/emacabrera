@@ -166,8 +166,8 @@
 
 <h3>My Stats:</h3>
 
-[![Ema's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=emacabrera&count_private=true&theme=monokai&include_all_commits=false#gh-dark-mode-only)](https://github.com/emacabrera/github-readme-stats#gh-dark-mode-only)
-[![Ema's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=emacabrera&count_private=true&theme=gruvbox_light&include_all_commits=false#gh-light-mode-only)](https://github.com/emacabrera/github-readme-stats#gh-light-mode-only)
+<!--[![Ema's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=emacabrera&count_private=true&theme=monokai&include_all_commits=false#gh-dark-mode-only)](https://github.com/emacabrera/github-readme-stats#gh-dark-mode-only)
+[![Ema's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=emacabrera&count_private=true&theme=gruvbox_light&include_all_commits=false#gh-light-mode-only)](https://github.com/emacabrera/github-readme-stats#gh-light-mode-only)-->
 
 [![Ema's GitHub stats-Dark](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=emacabrera&langs_count=10&layout=compact&theme=monokai&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/emacabrera/github-readme-stats#gh-dark-mode-only)
 [![Ema's GitHub stats-Light](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=emacabrera&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR#gh-dark-mode-only)](https://github.com/emacabrera/github-readme-stats#gh-light-mode-only)

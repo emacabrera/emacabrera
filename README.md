@@ -2,7 +2,7 @@
 <h3 align="center">A super passionate fullstack web developer 👨‍💻</h3>
 
 - 🔭 I’m currently working on [DeptⓇ](https://www.deptagency.com/es-ar/)
-- 🌱 I’m currently learning `Qwit`, `React`, `Figma`.
+- 🌱 I’m currently learning `Go`, `Figma`, `Nx Repo`.
 - 👯 I’m looking to collaborate on the build of a **Slack bot** for my company.
 - 📫 How to reach me: **pemanuel.cabrera@gmail.com**
 - ⚡ Fun fact: I'm also a musician ✌🏼

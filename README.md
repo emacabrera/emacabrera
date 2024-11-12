@@ -176,10 +176,18 @@
       height="40"
     />
   </a>
-   <a href="https://go.dev/" target="_blank">
+  <a href="https://go.dev/" target="_blank">
     <img
       src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png"
       alt="golang"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://docs.nestjs.com/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg"
+      alt="nestjs"
       width="40"
       height="40"
     />
